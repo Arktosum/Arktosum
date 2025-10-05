@@ -5,11 +5,11 @@
 <p>A passionate developer, mathematician, robotics & AI enthusiast.</p>
 
 <!-- Badges row -->
-[![Profile Views](https://u8views.com/api/v1/github/profiles/YourUserName/views/day-week-month-total-count.svg)](https://u8views.com/github/YourUserName)  
-[![Visitor Badge](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FYourUserName&label=VISITORS&countColor=%23f3722c)](https://github.com/YourUserName)  
-[![Followers](https://img.shields.io/github/followers/YourUserName?label=Followers&style=flat&logo=github)](https://github.com/YourUserName?tab=followers)  
-[![Stars](https://img.shields.io/github/stars/YourUserName?style=flat&logo=github)](https://github.com/YourUserName?tab=stars)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&theme=dracula&layout=compact)](https://github.com/YourUserName)  
+[![Profile Views](https://u8views.com/api/v1/github/profiles/YourUserName/views/day-week-month-total-count.svg)](https://u8views.com/github/Arktosum)  
+[![Visitor Badge](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FYourUserName&label=VISITORS&countColor=%23f3722c)](https://github.com/Arktosum)  
+[![Followers](https://img.shields.io/github/followers/YourUserName?label=Followers&style=flat&logo=github)](https://github.com/Arktosum?tab=followers)  
+[![Stars](https://img.shields.io/github/stars/YourUserName?style=flat&logo=github)](https://github.com/Arktosum?tab=stars)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&theme=dracula&layout=compact)](https://github.com/Arktosum)  
 
 </div>
 
