@@ -31,7 +31,7 @@
 
 | Languages & Frameworks | Tools & Platforms |
 |------------------------|-------------------|
-| `Python` · `C++` · `JavaScript` · `Rust` · `Go` | `GitHub Actions` · `Docker` · `ROS` · `TensorFlow` · `PyTorch` |
+| `Python` · `C++` · `JavaScript` · `Typescript`| `GitHub Actions` · `Docker` · `ROS` · `TensorFlow` · `PyTorch` |
 
 ---
 
