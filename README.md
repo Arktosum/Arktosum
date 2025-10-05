@@ -5,7 +5,7 @@
 <p>A passionate developer, mathematician, robotics & AI enthusiast.</p>
 
 <!-- Badges row -->
-[![Profile Views](https://u8views.com/api/v1/github/profiles/Arktosum/views/day-week-month-total-count.svg)](https://u8views.com/github/Arktosum)  
+[![Arktosum profile views](https://u8views.com/api/v1/github/profiles/70579691/views/day-week-month-total-count.svg)](https://u8views.com/github/Arktosum)
 [![Visitor Badge](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FArktosum&label=VISITORS&countColor=%23f3722c)](https://github.com/Arktosum)  
 [![Followers](https://img.shields.io/github/followers/Arktosum?label=Followers&style=flat&logo=github)](https://github.com/Arktosum?tab=followers)  
 [![Stars](https://img.shields.io/github/stars/Arktosum?style=flat&logo=github)](https://github.com/Arktosum?tab=stars)  
