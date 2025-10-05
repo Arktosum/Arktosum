@@ -5,11 +5,11 @@
 <p>A passionate developer, mathematician, robotics & AI enthusiast.</p>
 
 <!-- Badges row -->
-[![Profile Views](https://u8views.com/api/v1/github/profiles/YourUserName/views/day-week-month-total-count.svg)](https://u8views.com/github/Arktosum)  
-[![Visitor Badge](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FYourUserName&label=VISITORS&countColor=%23f3722c)](https://github.com/Arktosum)  
-[![Followers](https://img.shields.io/github/followers/YourUserName?label=Followers&style=flat&logo=github)](https://github.com/Arktosum?tab=followers)  
-[![Stars](https://img.shields.io/github/stars/YourUserName?style=flat&logo=github)](https://github.com/Arktosum?tab=stars)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&theme=dracula&layout=compact)](https://github.com/Arktosum)  
+[![Profile Views](https://u8views.com/api/v1/github/profiles/Arktosum/views/day-week-month-total-count.svg)](https://u8views.com/github/Arktosum)  
+[![Visitor Badge](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FArktosum&label=VISITORS&countColor=%23f3722c)](https://github.com/Arktosum)  
+[![Followers](https://img.shields.io/github/followers/Arktosum?label=Followers&style=flat&logo=github)](https://github.com/Arktosum?tab=followers)  
+[![Stars](https://img.shields.io/github/stars/Arktosum?style=flat&logo=github)](https://github.com/Arktosum?tab=stars)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arktosum&theme=dracula&layout=compact)](https://github.com/Arktosum)  
 
 </div>
 
@@ -19,9 +19,9 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=merko" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=merko" alt="GitHub Stats" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=merko" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=merko" alt="GitHub Stats" />
   </picture>
 </p>
 
@@ -45,11 +45,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)  
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourHandle)  
-[![Website](https://img.shields.io/badge/Website-YourSite-gray?style=for-the-badge&logo=googlechrome)](https://yourwebsite.com)
-
 ---
+<img src="https://c.tenor.com/g3G5nn_gSxYAAAAC/dazai-osamu.gif" alt="Coding Animation"/>
 
 > “Simplicity is the ultimate sophistication.” — *[Can’t remember who said this]*
 
