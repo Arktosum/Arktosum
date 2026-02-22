@@ -1,52 +1,112 @@
 <div align="center">
 
-<!-- Banner / Title -->
-<h1>Hi 👋, I'm Arktosum </h1>
-<p>A passionate developer, mathematician, robotics & AI enthusiast.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arktosum+%F0%9F%8C%B8;When+in+doubt%2C+%2F%2F+it+out!" alt="Typing SVG" />
 
-<!-- Badges row -->
-[![Arktosum profile views](https://u8views.com/api/v1/github/profiles/70579691/views/day-week-month-total-count.svg)](https://u8views.com/github/Arktosum)
-[![Visitor Badge](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FArktosum&label=VISITORS&countColor=%23f3722c)](https://github.com/Arktosum)  
-[![Followers](https://img.shields.io/github/followers/Arktosum?label=Followers&style=flat&logo=github)](https://github.com/Arktosum?tab=followers)  
-[![Stars](https://img.shields.io/github/stars/Arktosum?style=flat&logo=github)](https://github.com/Arktosum?tab=stars)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arktosum&theme=dracula&layout=compact)](https://github.com/Arktosum)  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
 ---
 
+### 🌿 About Me
+
+Mechatronics student by day — self-taught developer by passion. I live at the intersection of hardware and software, building everything from real-time graphics renderers and embedded systems to full-stack web apps and machine learning models.
+
+I didn't wait for a classroom to teach me CS. I just built things.
+
+> *Currently exploring: Reinforcement Learning · Real-time Graphics · Distributed Systems*
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=500&lines=Languages+%7C+Frameworks+%7C+Tools+%7C+Systems" alt="stack" />
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Graphics & Systems**
+
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+**ML & DevOps**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=merko" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=merko" alt="GitHub Stats" />
-  </picture>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Arktosum&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E2D9F3&border_radius=12" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arktosum&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=C4B5FD&text_color=E2D9F3&border_radius=12" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Arktosum&theme=tokyonight&border=7C3AED&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&border_radius=12" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arktosum&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=false&border_color=7C3AED&radius=12"/>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<div align="center">
 
-| Languages & Frameworks | Tools & Platforms |
-|------------------------|-------------------|
-| `Python` · `C++` · `JavaScript` · `Typescript`| `GitHub Actions` · `Docker` · `ROS` · `TensorFlow` · `PyTorch` |
+### 🌸 Pinned Highlights
 
----
+| Project | What it is |
+|--------|-----------|
+| 🎮 [SAGE](https://github.com/Arktosum/SAGE) | Graphics Renderer built with OpenGL & GLFW |
+| 💬 [Synergy](https://github.com/Arktosum/synergy) | Real-time chat app — MERN Stack |
+| 🏥 [Pharmacy Management](https://github.com/Arktosum/pharmacy-management) | Full-stack pharmacy DB with React + Node |
+| 📋 [Life GUI](https://github.com/Arktosum/life-gui) | Productivity app built with MERN |
+| ⚡ [Stellar-16](https://github.com/Arktosum/stellar-16) | Custom 16-bit stellar project |
 
-### 🔭 Currently Working On
-
-- A robotics-based vision system  
-- An AI project involving reinforcement learning  
-- Contributing to open source libraries  
-
----
-
-### 📫 Connect with Me
+</div>
 
 ---
-<img src="https://c.tenor.com/g3G5nn_gSxYAAAAC/dazai-osamu.gif" alt="Coding Animation"/>
 
-> “Simplicity is the ultimate sophistication.” — *[Can’t remember who said this]*
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=22&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=%22Simplicity+is+the+ultimate+sophistication.%22;A+Mechatronics+student+who+never+stopped+coding+🌿" alt="quote" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=Arktosum&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="280px" style="border-radius:16px" alt="Ghibli cozy gif"/>
+
+<br/>
+<sub>🌿 <i>somewhere between a robotics lab and a quiet countryside — that's where you'll find me coding</i></sub>
+
+</div>
