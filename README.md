@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arktosum+%F0%9F%8C%B8;When+in+doubt%2C+%2F%2F+it+out!" alt="Typing SVG" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=header&fontColor=C4B5FD" width="100%"/>
 
 </div>
 
@@ -98,13 +98,13 @@ I didn't wait for a classroom to teach me CS. I just built things.
 
 <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=22&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=%22Simplicity+is+the+ultimate+sophistication.%22;A+Mechatronics+student+who+never+stopped+coding+🌿" alt="quote" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=footer" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Arktosum&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="280px" style="border-radius:16px" alt="Ghibli cozy gif"/>
+<img src="https://c.tenor.com/g3G5nn_gSxYAAAAC/dazai-osamu.gif" width="280px" style="border-radius:16px" alt="anime cozy gif"/>
 
 <br/>
 <sub>🌿 <i>somewhere between a robotics lab and a quiet countryside — that's where you'll find me coding</i></sub>
