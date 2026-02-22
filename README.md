@@ -104,7 +104,7 @@ I didn't wait for a classroom to teach me CS. I just built things.
 
 <br/><br/>
 
-<img src="https://c.tenor.com/g3G5nn_gSxYAAAAC/dazai-osamu.gif" width="280px" style="border-radius:16px" alt="anime cozy gif"/>
+<img src="https://raw.githubusercontent.com/Arktosum/Arktosum/main/dazai.gif" width="280px" style="border-radius:16px" alt="anime cozy gif"/>
 
 <br/>
 <sub>🌿 <i>somewhere between a robotics lab and a quiet countryside — that's where you'll find me coding</i></sub>
