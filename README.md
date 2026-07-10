@@ -18,6 +18,7 @@ I didn't wait for a classroom to teach me CS. I just built things.
 
 <br/>
 
+
 ---
 
 <div align="center">
@@ -72,7 +73,27 @@ I didn't wait for a classroom to teach me CS. I just built things.
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Arktosum&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arktosum&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=false&border_color=7C3AED&radius=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arktosum/Arktosum/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arktosum/Arktosum/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Arktosum/Arktosum/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>🕹️ one-time setup needed — see note at the bottom of this file</sub>
 
 </div>
 
@@ -82,6 +103,8 @@ I didn't wait for a classroom to teach me CS. I just built things.
 
 ### 🌸 Pinned Highlights
 
+</div>
+
 | Project | What it is |
 |--------|-----------|
 | 🎮 [SAGE](https://github.com/Arktosum/SAGE) | Graphics Renderer built with OpenGL & GLFW |
@@ -89,8 +112,6 @@ I didn't wait for a classroom to teach me CS. I just built things.
 | 🏥 [Pharmacy Management](https://github.com/Arktosum/pharmacy-management) | Full-stack pharmacy DB with React + Node |
 | 📋 [Life GUI](https://github.com/Arktosum/life-gui) | Productivity app built with MERN |
 | ⚡ [Stellar-16](https://github.com/Arktosum/stellar-16) | Custom 16-bit stellar project |
-
-</div>
 
 ---
 
@@ -110,3 +131,4 @@ I didn't wait for a classroom to teach me CS. I just built things.
 <sub>🌿 <i>somewhere between a robotics lab and a quiet countryside — that's where you'll find me coding</i></sub>
 
 </div>
+
