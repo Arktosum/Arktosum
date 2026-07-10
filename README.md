@@ -93,7 +93,6 @@ I didn't wait for a classroom to teach me CS. I just built things.
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Arktosum/Arktosum/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>🕹️ one-time setup needed — see note at the bottom of this file</sub>
 
 </div>
 
